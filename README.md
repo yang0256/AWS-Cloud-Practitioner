@@ -1,9 +1,11 @@
-Domain 1: Cloud Concepts 26%
+Domain 1: Cloud Concepts 26%  
+
+<strike></strike><strike></strike><strike></strike><strike></strike><strike></strike><strike></strike><strike></strike><strike></strike><strike></strike><strike></strike><strike></strike><strike></strike><strike></strike><strike></strike><strike></strike><strike></strike><strike></strike>
 
 1.1 Define the AWS Cloud and its value proposition
-
+<strike>
 •	Define the benefits of the AWS cloud including:
-•	<strike>Security (AWS Documentation: Advantages of Cloud Security)</strike>
+•	Security (AWS Documentation: Advantages of Cloud Security)
 •	Reliability (AWS Documentation: Reliability)
 •	High Availability
 •	Elasticity (AWS Documentation: Elasticity)
@@ -14,7 +16,7 @@ Domain 1: Cloud Concepts 26%
 •	Economy of scale
 •	Explain how the AWS cloud allows users to focus on business value
 •	Shifting technical resources to revenue-generating activities as opposed to managing infrastructure (AWS Documentation: Business Value on AWS)
-
+</strike>
 1.2 Identify aspects of AWS Cloud economics
 
 •	Define items that would be part of a Total Cost of Ownership proposal
