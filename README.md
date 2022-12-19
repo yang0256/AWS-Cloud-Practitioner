@@ -3,7 +3,7 @@ Domain 1: Cloud Concepts 26%
 1.1 Define the AWS Cloud and its value proposition
 
 •	Define the benefits of the AWS cloud including:
-•	Security (AWS Documentation: Advantages of Cloud Security)
+•	<strike>Security (AWS Documentation: Advantages of Cloud Security)</strike>
 •	Reliability (AWS Documentation: Reliability)
 •	High Availability
 •	Elasticity (AWS Documentation: Elasticity)
