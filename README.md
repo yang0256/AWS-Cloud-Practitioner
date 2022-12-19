@@ -1,6 +1,6 @@
 Domain 1: Cloud Concepts 26%  
 
-<strike><strike><strike><strike><strike><strike>
+
 
 1.1 Define the AWS Cloud and its value proposition
 
@@ -136,8 +136,11 @@ Domain 3: Technology 33%
 •	Identify different AWS database services
 •	Install databases on Amazon EC2 compared to AWS managed databases (AWS Documentation: Choosing between Amazon RDS, Amazon EC2, or VMware Cloud)
 •	Identify Amazon RDS (AWS Documentation: Amazon RDS DB instances)
-•	Identify Amazon DynamoDB (AWS Documentation: Amazon DynamoDB)
+•	Identify Amazon DynamoDB (AWS Documentation: Amazon DynamoDB)<strike>
 •	Identify Amazon Redshift (AWS Documentation: Getting started with Amazon Redshift)
+
+
+</strike>
 
 3.4 Identify resources for technology support
 
@@ -150,6 +153,8 @@ Domain 3: Technology 33%
 •	Recognize there is a partner network (marketplace, third-party) including Independent Software Vendors and System Integrators (AWS Documentation: AWS Partner Network, AWS Partner Paths)
 •	Identify sources of AWS technical assistance and knowledge including professional services, solution architects, training and certification, and the Amazon Partner Network (AWS Documentation: technical support from AWS, AWS Professional Services, Successful solutions architects do these five things)
 •	Identify the benefits of using AWS Trusted Advisor (AWS Documentation: AWS Trusted Advisor)
+
+
 
 Domain 4: Billing and Pricing 16%
 
