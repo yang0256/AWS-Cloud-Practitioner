@@ -116,27 +116,51 @@ Domain 3: Technology 33%
 3.3 Identify the core AWS services
 
 •	Describe the categories of services on AWS (compute, storage, network, database) (AWS Documentation: AWS Cloud Products)
+
 •	Identify AWS compute services
+
 •	Recognize there are different compute families (AWS Documentation: Amazon EC2 Instance Types)
+
+
 •	Recognize the different services that provide compute (for example, AWS Lambda compared to Amazon Elastic Container Service (Amazon ECS), or Amazon EC2, etc.) (AWS Documentation: Compute Services)
-•	Recognize that elasticity is achieved through Auto Scaling
+
+•	Recognize that e
+lasticity is achieved through Auto Scaling
+
 •	Identify the purpose of load balancers (AWS Documentation: Application Load Balancer)
+
 •	Identify different AWS storage services
+
 •	Describe Amazon S3 (AWS Documentation: Amazon S3)
+
 •	Describe Amazon Elastic Block Store (Amazon EBS) (AWS Documentation: Amazon Elastic Block Store (Amazon EBS))
+
 •	Describe Amazon S3 Glacier (AWS Documentation: Amazon S3 Glacier)
+
 •	Describe AWS Snowball (AWS Documentation: AWS Snowball)
+
 •	Describe Amazon Elastic File System (Amazon EFS) (AWS Documentation: Use Amazon EFS with Amazon EC2)
+
 •	Describe AWS Storage Gateway (AWS Documentation: Amazon S3 File Gateway)
+
 •	Identify AWS networking services
+
 •	Identify VPC (AWS Documentation: Finding information to connect to a VPC)
+
 •	Identify security groups (AWS Documentation: Finding information to connect to a VPC)
+
 •	Identify the purpose of Amazon Route 53 (AWS Documentation: Amazon Route 53)
+
 •	Identify VPN, AWS Direct Connect (AWS Documentation: Identifying a Site-to-Site VPN connection, AWS Direct Connect)
+
 •	Identify different AWS database services
+
 •	Install databases on Amazon EC2 compared to AWS managed databases (AWS Documentation: Choosing between Amazon RDS, Amazon EC2, or VMware Cloud)
+
 •	Identify Amazon RDS (AWS Documentation: Amazon RDS DB instances)
+
 •	Identify Amazon DynamoDB (AWS Documentation: Amazon DynamoDB)<strike>
+  
 •	Identify Amazon Redshift (AWS Documentation: Getting started with Amazon Redshift)
 
 
@@ -150,7 +174,8 @@ Domain 3: Technology 33%
 •	AWS support cases (AWS Documentation: Creating support cases and case management)
 •	Premium support
 •	Technical Account Managers (AWS Documentation: AWS Enterprise Support)
-•	Recognize there is a partner network (marketplace, third-party) including Independent Software Vendors and System Integrators (AWS Documentation: AWS Partner Network, AWS Partner Paths)
+•	Recognize there is a partner network (marketplace, third-party) including Independent Software Vendors and System Integrators (AWS Documentation: AWS Partner 
+Network, AWS Partner Paths)
 •	Identify sources of AWS technical assistance and knowledge including professional services, solution architects, training and certification, and the Amazon Partner Network (AWS Documentation: technical support from AWS, AWS Professional Services, Successful solutions architects do these five things)
 •	Identify the benefits of using AWS Trusted Advisor (AWS Documentation: AWS Trusted Advisor)
 
