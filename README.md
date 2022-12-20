@@ -162,9 +162,9 @@ lasticity is achieved through Auto Scaling
 •	Identify Amazon DynamoDB (AWS Documentation: Amazon DynamoDB)
 
 <strike> 
-•	Identify Amazon Redshift (AWS Documentation: Getting started with Amazon Redshift)
+•	Identify Amazon Redshift (AWS Documentation: Getting started with Amazon Redshift)</strike>
 https://www.youtube.com/watch?v=7bfOllAyxlg
-</strike> data warehouse data lake> query > analytics, JDBC, ODBC, Column storage, cluster-query editor, Lamda
+  Data warehouse data lake> query > analytics, JDBC, ODBC, Column storage, cluster(node type: cpu storage size)-query editor(SQL workbench), Example: create db from S3 text file, Lamda
 
 3.4 Identify resources for technology support
 
