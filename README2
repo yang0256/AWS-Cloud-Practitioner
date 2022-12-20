@@ -75,8 +75,8 @@ lasticity is achieved through Auto Scaling
 
 •	Identify Amazon DynamoDB <strike> (AWS Documentation: Amazon DynamoDB)</strike>  fully managed, serverless, non-SQL, document, key-value, 
 
-<strike> 
-•	Identify Amazon Redshift (AWS Documentation: Getting started with Amazon Redshift)</strike>
+
+•	Identify Amazon Redshift <strike>(AWS Documentation: Getting started with Amazon Redshift)</strike>
 https://www.youtube.com/watch?v=7bfOllAyxlg
   Data warehouse data lake> query > analytics, JDBC, ODBC, Column storage, clusters(node type: cpu storage size)-query editor(SQL workbench), Example: create db from S3 text file, Redshift work with Lamda
 
