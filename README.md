@@ -96,30 +96,3 @@ Network, AWS Partner Paths)
 •	Identify the benefits of using AWS Trusted Advisor (AWS Documentation: AWS Trusted Advisor)
 
 
-
-Domain 4: Billing and Pricing 16%
-
-4.1 Compare and contrast the various pricing models for AWS (for example, On-Demand Instances, Reserved Instances, and Spot Instance pricing) (AWS Documentation: Amazon EC2 pricing)
-
-•	Identify scenarios/best fit for On-Demand Instance pricing (AWS Documentation: Amazon EC2 On-Demand Pricing, On-Demand Instances)
-•	Identify scenarios/best fit for Reserved-Instance pricing (AWS Documentation: Reserved Instances, Amazon EC2 Reserved Instances)
-•	Describe Reserved-Instances flexibility (AWS Documentation: Instance Size Flexibility for EC2 Reserved Instances)
-•	Describe Reserved-Instances behavior in AWS Organizations (AWS Documentation: Reserved Instances)
-•	Identify scenarios/best fit for Spot Instance pricing (AWS Documentation: Spot Instances)
-
-4.2 Recognize the various account structures in relation to AWS billing and pricing
-
-•	Recognize that consolidated billing is a feature of AWS Organizations (AWS Documentation: Consolidated billing for AWS Organizations)
-•	Identify how multiple accounts aid in allocating costs across departments (AWS Documentation: AWS Cost Allocation For Customer Bills, Cost Allocation Basics)
-4.3 Identify resources available for billing support
-•	Identify ways to get billing support and information (AWS Documentation: AWS Billing and Cost Management)
-•	Cost Explorer, AWS Cost and Usage Report, Amazon QuickSight, third-party partners, and AWS Marketplace tools (AWS Documentation: Analyzing your costs with AWS Cost Explorer, AWS Cost and Usage Reports, Amazon QuickSight, AWS Managed Service Provider Partners)
-•	Open a billing support case (AWS Documentation: Creating support cases and case management)
-•	The role of the Concierge for AWS Enterprise Support Plan customers (AWS Documentation: AWS Enterprise Support)
-•	Identify where to find pricing information on AWS services
-•	AWS Simple Monthly Calculator (AWS Documentation: AWS Pricing Calculator console)
-•	AWS Services product pages (AWS Documentation: Using the Products page)
-•	AWS Pricing API (AWS Documentation: AWS Price List API)
-•	Recognize that alarms/alerts exist (AWS Documentation: Creating a billing alarm to monitor your estimated AWS charges)
-•	Identify how tags are used in cost allocation (AWS Documentation: Using Cost Allocation Tags)
-
