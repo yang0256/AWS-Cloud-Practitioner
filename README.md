@@ -162,7 +162,7 @@ lasticity is achieved through Auto Scaling
 •	Identify Amazon DynamoDB (AWS Documentation: Amazon DynamoDB)<strike>
   
 •	Identify Amazon Redshift (AWS Documentation: Getting started with Amazon Redshift)
-
+https://www.youtube.com/watch?v=7bfOllAyxlg
 
 </strike>
 
