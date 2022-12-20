@@ -16,7 +16,7 @@ Domain 1: Cloud Concepts 26%
 •	Economy of scale
 •	Explain how the AWS cloud allows users to focus on business value
 •	Shifting technical resources to revenue-generating activities as opposed to managing infrastructure (AWS Documentation: Business Value on AWS)
-</strike>
+
 
 1.2 Identify aspects of AWS Cloud economics
 
@@ -159,12 +159,12 @@ lasticity is achieved through Auto Scaling
 
 •	Identify Amazon RDS (AWS Documentation: Amazon RDS DB instances)
 
-•	Identify Amazon DynamoDB (AWS Documentation: Amazon DynamoDB)<strike>
-  
+•	Identify Amazon DynamoDB (AWS Documentation: Amazon DynamoDB)
+
+<strike> 
 •	Identify Amazon Redshift (AWS Documentation: Getting started with Amazon Redshift)
 https://www.youtube.com/watch?v=7bfOllAyxlg
-
-</strike>
+</strike> data warehouse data lake> query > analytics, JDBC, ODBC, Column storage, cluster-query editor, Lamda
 
 3.4 Identify resources for technology support
 
