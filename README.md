@@ -164,7 +164,8 @@ lasticity is achieved through Auto Scaling
 <strike> 
 •	Identify Amazon Redshift (AWS Documentation: Getting started with Amazon Redshift)</strike>
 https://www.youtube.com/watch?v=7bfOllAyxlg
-  Data warehouse data lake> query > analytics, JDBC, ODBC, Column storage, cluster(node type: cpu storage size)-query editor(SQL workbench), Example: create db from S3 text file, Lamda
+  Data warehouse data lake> query > analytics, JDBC, ODBC, Column storage, clusters(node type: cpu storage size)-query editor(SQL workbench), Example: create db from S3 text file, Redshift work with Lamda
+
 
 3.4 Identify resources for technology support
 
